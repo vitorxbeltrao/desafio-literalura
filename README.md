@@ -32,7 +32,7 @@ A aplicação roda no **terminal (CLI)** e foi desenvolvida como parte do **Chal
 [4] Consultar a lista dos autores cadastrados.
 [5] Buscar autores vivos em determinado ano.
 [6] Buscar livros em determinado idioma.
-[0] - Sair
+[0] Sair
 
 ```
 
@@ -146,3 +146,4 @@ Praticar:
 
 
 Desenvolvido por **Vitor Beltrão**
+
