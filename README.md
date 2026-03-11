@@ -1,6 +1,6 @@
 # 📚 LiterAlura
 
-Aplicação em **Java + Spring Boot** que consome a API de livros do Projeto Gutenberg e permite pesquisar, salvar e consultar livros e autores em um banco de dados.
+Aplicação em **Java + Spring Boot** que consome a API de livros do Projeto Gutendex e permite pesquisar, salvar e consultar livros e autores em um banco de dados.
 
 A aplicação roda no **terminal (CLI)** e foi desenvolvida como parte do **Challenge LiterAlura (Alura + Oracle ONE)**.
 
@@ -21,17 +21,19 @@ A aplicação roda no **terminal (CLI)** e foi desenvolvida como parte do **Chal
 
 ```
 *********************************
-*          LITERALURA           *
+*          CONSULTA             *
 *********************************
 
-1 - Buscar livro pelo título
-2 - Listar livros registrados
-3 - Listar autores registrados
-4 - Listar autores vivos em determinado ano
-5 - Listar livros por idioma
-0 - Sair
+--> ESCOLHA UMA OPÇÃO
 
-Escolha uma opção válida:
+[1] Cadastrar um livro pelo título.
+[2] Buscar um livro cadastrado pelo título.
+[3] Consultar a lista dos livros cadastrados.
+[4] Consultar a lista dos autores cadastrados.
+[5] Buscar autores vivos em determinado ano.
+[6] Buscar livros em determinado idioma.
+[0] - Sair
+
 ```
 
 ---
@@ -141,5 +143,6 @@ Praticar:
 ---
 
 # 👨‍💻 Autor
+
 
 Desenvolvido por **Vitor Beltrão**
