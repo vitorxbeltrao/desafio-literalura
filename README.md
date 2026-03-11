@@ -8,6 +8,8 @@ A aplicação roda no **terminal (CLI)** e foi desenvolvida como parte do **Chal
 
 # 📌 Funcionalidades
 
+- Cadastrar um livro pelo título.
+- ➕ Cadastrar livros no banco de dados
 - 🔎 Buscar livros pelo título via API
 - 📖 Listar livros registrados no banco de dados
 - ✍️ Listar autores registrados
@@ -146,4 +148,5 @@ Praticar:
 
 
 Desenvolvido por **Vitor Beltrão**
+
 
