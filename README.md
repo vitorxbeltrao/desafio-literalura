@@ -47,21 +47,29 @@ desafio-literalura
 ├── src
 │   └── main
 │       └── java
-│           └── br.com.literalura
+│           └── com.literalura
+│               ├── dto
+│               │   ├── AutorDTO.java
+│               │   ├── LivroDTO.java
+│               │   └── ResultsDTO.java
+│               │
 │               ├── principal
 │               │   └── Principal.java
 │               │
 │               ├── model
-│               │   ├── Livro.java
-│               │   └── Autor.java
+│               │   ├── Autor.java
+│               │   └── Livro.java
 │               │
 │               ├── repository
-│               │   ├── LivroRepository.java
-│               │   └── AutorRepository.java
+│               │   ├── AutorRepository.java
+│               │   └── LivroRepository.java
 │               │
 │               └── service
-│                   └── ConsumoAPI.java
-│
+│               |   ├── ConsumoAPI.java
+│               |   └── ConversorDeDados.java
+│               |
+│               └── ConversorDeDados.java
+│          
 └── resources
     └── application.properties
 ```
@@ -147,6 +155,7 @@ Praticar:
 
 
 Desenvolvido por **Vitor Beltrão**
+
 
 
 
