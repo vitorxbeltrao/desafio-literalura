@@ -108,7 +108,7 @@ Dados disponíveis:
 ## 1️⃣ Clonar repositório
 
 ```bash
-git clone https://github.com/seu-usuario/desafio-literalura.git
+git clone https://github.com/vitorxbeltrao/desafio-literalura.git
 ```
 
 ## 2️⃣ Configurar banco
@@ -122,7 +122,7 @@ src/main/resources/application.properties
 Exemplo:
 
 ```
-spring.datasource.url=jdbc:postgresql://localhost/literalura
+spring.datasource.url=jdbc:postgresql://localhost:5432/literalura
 spring.datasource.username=usuario
 spring.datasource.password=senha
 ```
@@ -155,6 +155,7 @@ Praticar:
 
 
 Desenvolvido por **Vitor Beltrão**
+
 
 
 
