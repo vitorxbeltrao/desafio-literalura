@@ -68,7 +68,7 @@ desafio-literalura
 │               |   ├── ConsumoAPI.java
 │               |   └── ConversorDeDados.java
 │               |
-│               └── ConversorDeDados.java
+│               └── LiteraluraApplication.java
 │          
 └── resources
     └── application.properties
@@ -155,6 +155,7 @@ Praticar:
 
 
 Desenvolvido por **Vitor Beltrão**
+
 
 
 
